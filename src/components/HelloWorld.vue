@@ -1,7 +1,8 @@
 <template>
   <div class="hello">
     <!-- <h1>{{ msg }}</h1> -->
-    <h2>Showing the power of CodeShip</h2>test a
+    <h2>Showing the power of CodeShip</h2>
+    <span>test 2 - now to firebase</span>
     <!-- <h4>(now includes build badge in GitHub repo)</h4> -->
   </div>
 </template>
